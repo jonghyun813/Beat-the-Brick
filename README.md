@@ -4,13 +4,12 @@
 
 아래 그램과 같이 로봇과  Arduino Uno, 다양한 센서를 활용하여 경기장 내에 존재하는 장애물을 경기장 밖으로 밀어내는 프로젝트이다.
 
-<img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/0694ec05-da77-45d2-b528-5a428f07264d" style="display: block; margin: 0 auto; width: 50%;">
 <p align="center">
-  <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/0694ec05-da77-45d2-b528-5a428f07264d" width="25%">
+  <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/0694ec05-da77-45d2-b528-5a428f07264d" width="50%">
 </p>
-
-<img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/66627e07-b799-4a50-979e-c6224a5da2f0" style="display: block; margin: 0 auto; width: 50%;">
-
+<p align="center">
+  <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/66627e07-b799-4a50-979e-c6224a5da2f0" width="50%">
+</p>
 
 사용한 센서
 
