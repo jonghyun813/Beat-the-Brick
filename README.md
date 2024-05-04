@@ -6,7 +6,7 @@
 
 <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/0694ec05-da77-45d2-b528-5a428f07264d" style="zoom: 25%;" />
 
-<img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/0694ec05-da77-45d2-b528-5a428f07264d" style="zoom: 25%;" />
+<img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/66627e07-b799-4a50-979e-c6224a5da2f0" style="zoom: 25%;" />
 
 
 사용한 센서
