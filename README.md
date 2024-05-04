@@ -22,9 +22,10 @@
 <p align="center">
   <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/7956ae20-9925-43e4-a2d6-090497394164" alt="demo_vid1">
 </p>
-![demo_vid1](https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/7956ae20-9925-43e4-a2d6-090497394164)
 
-![demo_vid2](https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/f71362c0-4e80-4817-b6b0-62fe589aace0)
+<p align="center">
+  <img src="https://github.com/jonghyun813/Beat-the-Brick/assets/66056087/f71362c0-4e80-4817-b6b0-62fe589aace0" alt="demo_vid1">
+</p>
 
 
 
